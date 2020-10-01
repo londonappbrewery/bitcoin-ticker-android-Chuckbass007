@@ -1,1 +1,2 @@
+include ':Libdependencie'
 include ':app'
